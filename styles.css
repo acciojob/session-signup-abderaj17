@@ -1,12 +1,10 @@
-/*  your css code here. If applicable */
  form {
       background-color: #f8f9fa;
       border: 1px solid #ccc;
       border-radius: 4px;
       padding: 2rem;
       width: 300px;
-      margin: 2rem auto;
-      font-family: Arial, sans-serif;
+      margin: 50px auto;
     }
 
     label {
@@ -22,16 +20,14 @@
       padding: 0.5rem;
       border-radius: 4px;
       margin-bottom: 1rem;
-      box-sizing: border-box;
     }
 
-    button {
+    #submit {
       background-color: #007bff;
       color: white;
       padding: 0.75rem 1.5rem;
       border: none;
       border-radius: 4px;
       font-weight: bold;
-      width: 100%;
       cursor: pointer;
     }
